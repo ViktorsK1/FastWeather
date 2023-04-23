@@ -12,6 +12,7 @@
 		5F229BD429E341E9004EDA14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F229BD329E341E9004EDA14 /* Assets.xcassets */; };
 		5F229BD729E341E9004EDA14 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F229BD629E341E9004EDA14 /* Preview Assets.xcassets */; };
 		5F229BDE29E34314004EDA14 /* ForecastModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F229BDD29E34314004EDA14 /* ForecastModel.swift */; };
+		5FE0197429E7516B000F9EB3 /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE0197329E7516B000F9EB3 /* APIService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		5F229BD329E341E9004EDA14 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F229BD629E341E9004EDA14 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5F229BDD29E34314004EDA14 /* ForecastModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastModel.swift; sourceTree = "<group>"; };
+		5FE0197329E7516B000F9EB3 /* APIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				5F229BD329E341E9004EDA14 /* Assets.xcassets */,
 				5F229BD529E341E9004EDA14 /* Preview Content */,
 				5F229BDD29E34314004EDA14 /* ForecastModel.swift */,
+				5FE0197329E7516B000F9EB3 /* APIService.swift */,
 			);
 			path = FastWeather;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				5F229BD229E341E8004EDA14 /* ContentView.swift in Sources */,
 				5F229BDE29E34314004EDA14 /* ForecastModel.swift in Sources */,
+				5FE0197429E7516B000F9EB3 /* APIService.swift in Sources */,
 				5F229BD029E341E8004EDA14 /* FastWeatherApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
